@@ -14,3 +14,5 @@
 # Nota:
 
 -Por falta de tiempo debido a asuntos personales solo pude hacerlo de esta manera.
+
+-Para traer los datos se debe correr el proyecto React-Poc en paralelo.
