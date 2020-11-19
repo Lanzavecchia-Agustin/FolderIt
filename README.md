@@ -9,4 +9,4 @@ Puntos a completar o mejorar:
 
 Nota:
 
--Por falta de tiempo debido a asuntor personales solo pude hacerlo de esta manera.
+-Por falta de tiempo debido a asuntor personales solo pude hacerlo de esta manera (correr los dos proyectos en pararelo).
