@@ -1,6 +1,6 @@
-# ItFolder
 # ItFolder Challenge 
-Puntos a completar o mejorar:
+
+# Puntos a completar o mejorar:
 
 -Controlar el estado de las tereas (si fueron completadas o no)
 
@@ -8,6 +8,6 @@ Puntos a completar o mejorar:
 
 -Test unitario
 
-Nota:
+# Nota:
 
 -Por falta de tiempo debido a asuntor personales solo pude hacerlo de esta manera.
