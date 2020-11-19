@@ -10,4 +10,4 @@
 
 # Nota:
 
--Por falta de tiempo debido a asuntor personales solo pude hacerlo de esta manera.
+-Por falta de tiempo debido a asuntos personales solo pude hacerlo de esta manera.
