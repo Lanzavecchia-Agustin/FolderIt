@@ -8,7 +8,7 @@
 
 -Test unitario
 
--Filtrar (Usando la funcion filter de AntDesing podria filtrar la informacion teniendo en cuenta si las tareas fueron completadas o no)
+-Filtrar (Usando la funcion filter de AntDesign podria filtrar la informacion teniendo en cuenta si las tareas fueron completadas o no)
 
 
 # Nota:
