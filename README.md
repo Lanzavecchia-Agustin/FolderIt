@@ -1,4 +1,4 @@
-# ItFolder Challenge 
+# FolderIt Challenge 
 
 # Puntos a completar o mejorar:
 
